@@ -1,9 +1,10 @@
 # Nutrient - Your Health Campanion
 
 
-## OverView
+## Overview
 
-This is a Nutrient Record and Calculator. The nutrient's of a meal is calculated based on the poportion of the actual ingredients. 
+This is a Nutrient Record and Calculator. The nutrient's of a meal is calculated based on the poportion of the actual ingredient's nutrient. 
+You can also record your own blood pressure. 
 
 ## Ussage
 
