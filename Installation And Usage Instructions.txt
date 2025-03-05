@@ -40,3 +40,7 @@ Usage
 - Change A Meal
     - To change a meal, switch to the “Daily Food Intake Record” worksheet, you just need to modify the Worksheet name for a particular meal to the new meal name.
     - As you lock the data manually, the previous daily food intake record will not be affected when the new meal is added. 
+
+To add a paticular day for recording
+- Select the input area for the previous day, there will be a tiny sqaure at the lower right conner, just drag it and hold to extend downwards. A day will be added.
+- You can also copy the input area from the “Daily Food Intake Template” and paste it just below the previous record date. 
