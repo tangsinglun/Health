@@ -1,0 +1,37 @@
+Installation And Usage Instructions
+
+
+This is a Nutrient Record and Calculator. The nutrient's of a meal is calculated based on the poportion of the actual ingredient's nutrient. 
+You can also record your own blood pressure.
+
+
+Software Installation
+
+In order to use the Forecast calculator, you need Excel Spreadsheet software to be installed. 
+There are 2 types of options to choose from, one is paid software (products such as Microsoft 365 or previous version of Microsoft Office products), 
+the other is free software (products such as WPS Office, or libreoffice). 
+
+- Microsoft (paid free or online version) - https://www.microsoft365.com
+- WPS Office (free) - https://www.wps.com
+- Libreoffice (free) - https://www.libreoffice.org
+
+Usage
+
+- Create A Meal
+
+    i.A 5 meal plan as a demo is included. You can delete as you like.
+    ii.To use, set your own meal plan by copying all the contents from the "Ingredients Menu Template" to a new worksheet.
+    iii.After copying, rename the worksheet to the meal name you want to name. 
+    iv.There are 2 parts you need to modify. For the upper part, modify the ingredient header label. For example you have an ingredient let say “Oat”, just rename the “Ingredient 1” to “Oat” and then fill in the nutrient values. 
+        Then for the Lower part, you only need to just modify the “Ingredient 1” to “Oat”. 
+    v.Note: Other matters, The Order for the Upper Ingredients must match to the Lower Ingredients. 
+
+
+- Record A Meal
+    i.To record each day's meal. You can do it by copying all the contents from the "Daily Food Intake Template" to a new worksheet.
+    ii.Rename the worksheet to the desire name you want.
+    iii.When recording a meal. For example “Oat meal For Breakfast” meal, in the meal worksheet,  type in the relavant grams of the ingredient you have consume. Let say, Oat 40 grams and condensed milk 35 ml (equavalent to 35 grams). 
+        Then you just need to type in “40” grams for Oat and “35” grams for condensed Milk. All the Other Ingredients set to 0’s (zeros).
+    iv.It will automatically calculate the relevant nutients.
+    v.To Lock the data for that day, please type in manually "AGAIN" the calories and nutrients calculated, including the nutrients figures, meal and ingredient name,  
+      or else everything will be resetted when the portion of the meal changes. You can take a look at the demo.
