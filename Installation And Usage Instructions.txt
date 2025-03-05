@@ -35,3 +35,8 @@ Usage
     iv.It will automatically calculate the relevant nutients.
     v.To Lock the data for that day, please type in manually "AGAIN" the calories and nutrients calculated, including the nutrients figures, meal and ingredient name,  
       or else everything will be resetted when the portion of the meal changes. You can take a look at the demo.
+
+
+- Change A Meal
+    - To change a meal, switch to the “Daily Food Intake Record” worksheet, you just need to modify the Worksheet name for a particular meal to the new meal name.
+    - As you lock the data manually, the previous daily food intake record will not be affected when the new meal is added. 
