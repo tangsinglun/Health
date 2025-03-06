@@ -1,7 +1,7 @@
 Installation And Usage Instructions
 
 
-This is a Nutrient Record and Calculator. The nutrient's of a meal is calculated based on the poportion of the actual ingredient's nutrient. 
+This is a Nutrient Record and Calculator. The nutrient's of a meal is calculated based on the proportion of the actual ingredient's nutrient. 
 You can also record your own blood pressure.
 
 
@@ -30,17 +30,21 @@ Usage
 - Record A Meal
     i.To record each day's meal. You can do it by copying all the contents from the "Daily Food Intake Template" to a new worksheet.
     ii.Rename the worksheet to the desire name you want.
-    iii.When recording a meal. For example “Oat meal For Breakfast” meal, in the meal worksheet,  type in the relavant grams of the ingredient you have consume. Let say, Oat 40 grams and condensed milk 35 ml (equavalent to 35 grams). 
+    iii.When recording a meal. For example “Oat meal For Breakfast” meal, in the meal worksheet,  type in the relevant grams of the ingredient you have consume. Let say, Oat 40 grams and condensed milk 35 ml (equivalent to 35 grams). 
         Then you just need to type in “40” grams for Oat and “35” grams for condensed Milk. All the Other Ingredients set to 0’s (zeros).
-    iv.It will automatically calculate the relevant nutients.
+    iv.It will automatically calculate the relevant nutrients.
     v.To Lock the data for that day, please type in manually "AGAIN" the calories and nutrients calculated, including the nutrients figures, meal and ingredient name,  
-      or else everything will be resetted when the portion of the meal changes. You can take a look at the demo.
+      or else everything will be reset when the portion of the meal changes. You can take a look at the demo.
 
 
 - Change A Meal
     - To change a meal, switch to the “Daily Food Intake Record” worksheet, you just need to modify the Worksheet name for a particular meal to the new meal name.
     - As you lock the data manually, the previous daily food intake record will not be affected when the new meal is added. 
 
-To add a paticular day for recording
-- Select the input area for the previous day, there will be a tiny sqaure at the lower right conner, just drag it and hold to extend downwards. A day will be added.
+To add a particular day for recording
+- Select the input area for the previous day, there will be a tiny square at the lower right conner, just drag it and hold to extend downwards. A day will be added.
 - You can also copy the input area from the “Daily Food Intake Template” and paste it just below the previous record date. 
+
+Resources Of Nutrient:
+Recommended Book
+- Nutrients In Food (Author: Elizabeth S. Hands) a nutrient CD is included,Although I don’t have :)
