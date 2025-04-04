@@ -1,5 +1,9 @@
 # Nutrient - Your Health Campanion
 
+# DISCLAIMER
+
+This is Not For Tencent. If Needed help or assistant please contact us. We are likely to help.
+
 
 ## Overview
 
